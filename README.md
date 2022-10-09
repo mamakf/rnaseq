@@ -1,4 +1,4 @@
-# rnaseq
+# RNASeq Pipeline
 
 Welcome to mamakf/rnaseq pipeline!
 
